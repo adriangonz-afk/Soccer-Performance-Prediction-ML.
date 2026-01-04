@@ -30,7 +30,7 @@ Se segmentó la plantilla en 3 clústeres basados en rendimiento (Goles, Asisten
 Implementación de sklearn.pipeline para encapsular el preprocesamiento (StandardScaler) y el modelado, evitando data leakage y facilitando el despliegue en producción.
 
 ### 3. Deep Learning Integration
-[cite_start]Diseño de una red neuronal simple con PyTorch (RedSimple) utilizando optimizador Adam y función de pérdida BCELoss para tareas de clasificación binaria complementarias[cite: 3].
+Diseño de una red neuronal simple con PyTorch (RedSimple) utilizando optimizador Adam y función de pérdida BCELoss para tareas de clasificación binaria complementarias.
 
 ## Project Structure
 * /data: Datasets de partidos y jugadores.
