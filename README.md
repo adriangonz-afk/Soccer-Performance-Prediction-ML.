@@ -5,7 +5,7 @@ End-to-end sports analytics system. Predicts match outcomes using Random Forest 
 ## Executive Summary
 Sistema integral de análisis de datos deportivos que combina Machine Learning Supervisado para predicción de resultados y Clustering No Supervisado para segmentación de jugadores. El proyecto evoluciona desde un análisis descriptivo hasta la implementación de Pipelines automatizados y redes neuronales con PyTorch.
 
-[cite_start]Logro Técnico: Se mejoró la capacidad predictiva de la diferencia de goles, pasando de un modelo lineal ineficiente (R² aprox 0) a un modelo de Random Forest con un R² de 0.83 y un error absoluto medio (MAE) de 0.67 goles[cite: 3].
+Logro Técnico: Se mejoró la capacidad predictiva de la diferencia de goles, pasando de un modelo lineal ineficiente (R² aprox 0) a un modelo de Random Forest con un R² de 0.83 y un error absoluto medio (MAE) de 0.67 goles.
 
 ## Tech Stack & Advanced Techniques
 * Core: Python, Pandas, NumPy.
