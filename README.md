@@ -24,7 +24,7 @@ Logro Técnico: Se mejoró la capacidad predictiva de la diferencia de goles, pa
 ## Key Features
 
 ### 1. Player Segmentation (K-Means + PCA)
-Se segmentó la plantilla en 3 clústeres basados en rendimiento (Goles, Asistencias, Precisión). [cite_start]El análisis de componentes principales (PCA) explicó el 67% de la varianza, validando visualmente la separación de roles tácticos[cite: 3].
+Se segmentó la plantilla en 3 clústeres basados en rendimiento (Goles, Asistencias, Precisión). [cite_start]El análisis de componentes principales (PCA) explicó el 67% de la varianza, validando visualmente la separación de roles tácticos.
 
 ### 2. Automated Pipelines
 Implementación de sklearn.pipeline para encapsular el preprocesamiento (StandardScaler) y el modelado, evitando data leakage y facilitando el despliegue en producción.
